@@ -1,0 +1,37 @@
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Collect\Collect\x64\Debug\Collect.Form1.resources
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Collect\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Collect\Collect\x64\Debug\Collect.vcxprojAssemblyReference.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Developing_22\Collect\Collect\x64\Debug\Collect.Form1.resources
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Developing_22\Collect\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Developing_22\Collect\Collect\x64\Debug\Collect.vcxprojAssemblyReference.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\Collect_2\Collect\x64\Debug\Collect.Form1.resources
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\Collect_2\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\Collect_2\Collect\x64\Debug\Collect.vcxprojAssemblyReference.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\Collect_3\Collect\x64\Debug\Collect.Form1.resources
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\Collect_3\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\2023\Collect_Data\Collect\x64\Debug\Collect.Form1.resources
+C:\DERSLER\BSc\Neural_Net\Coding_2021\Baslangic_BSc\2023\Collect_Data\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\iboro\Downloads\Collect_Data\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\iboro\Downloads\Collect_Data\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\iboro\Downloads\Collect_Data\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\iboro\OneDrive\Masaüstü\İbrahim YSA\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\iboro\OneDrive\Masaüstü\İbrahim YSA\İbrahim YSA\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\iboro\OneDrive\Masaüstü\İbrahim YSA\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\İbrahim YSA (2)\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\İbrahim YSA (2)\İbrahim YSA\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\İbrahim YSA (2)\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\İbrahim YSA\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\İbrahim YSA\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ysa ödev doğru\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ysa ödev doğru\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\Ysa ödev doğru\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ysa ödev\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ysa ödev\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\Ysa ödev\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ysa class_reg\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ysa class_reg\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\Ysa class_reg\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\Yapay Sinir Ağları\Ysa class_reg\Collect\x64\Debug\Collect.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yapay Sinir Ağları\Ysa class_reg\Collect\x64\Debug\Collect.Form1.resources
+C:\Users\hp\Desktop\Yapay Sinir Ağları\Ysa class_reg\Collect\x64\Debug\Collect.vcxproj.GenerateResource.cache
